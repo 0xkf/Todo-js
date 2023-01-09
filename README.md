@@ -4,15 +4,16 @@
 Todo listを、javascriptを用いて実装してみた。
 上記url参照
 
-```サーバーを起動するには
+```サーバーを起動するにはまず、ディレクトリの設定
 cd　現在のディレクトリ
 
 ```
 
-npx --yes @js-primer/local-server  
+その後に、下記コマンドを実行
 
 
-```s
+```npx --yes @js-primer/local-server  
+
 TodoDIYは、自分で実行してみたもの
 
 ```
