@@ -12,8 +12,11 @@ cd　現在のディレクトリ
 その後に、下記コマンドを実行
 
 
-```npx --yes @js-primer/local-server  
+```
 
-TodoDIYは、自分で実行してみたもの
+npx --yes @js-primer/local-server  
+
 
 ```
+
+TodoDIYは、自分で実験中のものなので、無視して良い。
